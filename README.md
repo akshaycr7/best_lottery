@@ -16,7 +16,16 @@ Or install it yourself as:
 
     $ gem install best_lottery
 
-## Usage
+Usage
+
+1. Open IRB in your terminal
+2. Type BestLottery::Random.new.numbers
+3. You will get an array containing 6 random numbers
+4. The range on numbers is between 0 to 60
+
+Have Fun !!!
+
+More updates coming soon.....
 
 TODO: Write usage instructions here
 
