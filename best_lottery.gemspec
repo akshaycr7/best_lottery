@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["akshay.thadani@newtechfusion.com"]
   spec.summary       = "Gem for lottery numbers"
   spec.description   = "A simple gem which can be used in your application which will randomly generate 6 numbers for lottery purpose"
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/akshaycr7/best_lottery"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
